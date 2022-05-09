@@ -11,9 +11,6 @@
 # A Adición
 # S Sustracción 
 
-from cmath import pi
-
-
 def pitagoras(a,b):
     h = (a**2 + b**2)**0.5 
     return h
